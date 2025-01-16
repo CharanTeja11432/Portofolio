@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e51274ca.css",
+    "main.js": "/static/js/main.91b9906f.js",
+    "static/js/453.6a54098e.chunk.js": "/static/js/453.6a54098e.chunk.js",
+    "static/media/Rectangle 769.jpg": "/static/media/Rectangle 769.b304a58ebc0381098120.jpg",
+    "static/media/Frame 6.png": "/static/media/Frame 6.352ac4d2f12cfbf22e16.png",
+    "static/media/Frame 4.png": "/static/media/Frame 4.a9a47a1bb1c2d7f05934.png",
+    "static/media/Frame 1.png": "/static/media/Frame 1.d74a04ab17e2f3c4b0ce.png",
+    "static/media/Frame 2.png": "/static/media/Frame 2.f0df544209286e7f7046.png",
+    "static/media/Frame 5.png": "/static/media/Frame 5.19e40d72a1e82bf52b33.png",
+    "static/media/Frame 3.png": "/static/media/Frame 3.18da82f6f3f29ece32a2.png",
+    "index.html": "/index.html",
+    "main.e51274ca.css.map": "/static/css/main.e51274ca.css.map",
+    "main.91b9906f.js.map": "/static/js/main.91b9906f.js.map",
+    "453.6a54098e.chunk.js.map": "/static/js/453.6a54098e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51274ca.css",
+    "static/js/main.91b9906f.js"
+  ]
+}
